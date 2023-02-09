@@ -1,0 +1,3 @@
+[submodule "other/SubMoudule"]
+	path = other/SubMoudule
+	url = git@github.com:xpalive/SubMoudule.git
